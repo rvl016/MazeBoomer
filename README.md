@@ -7,8 +7,7 @@
 <p>This sort of game involves building a maze with a choosen algorithm and then solve a path between two choosen cells with a choosen algorithm. When solving a path, the user can place and remove barriers in unexplored areas of the maze, affecting the solver path.</p>
 
 <h3>Note</h3>
-<p>This program is ready for placing as a component in an Angular frontend with [PIXI.js](https://www.npmjs.com/package/pixi.js/v/5.0.0-rc "PIXI.js npm page") ^5.2.1.
-
+<p>This program is ready for placing as a component in an Angular frontend with <a href = "https://www.npmjs.com/package/pixi.js/v/5.0.0-rc">PIXI.js</a> ^5.2.1.</p>
 <h2>Features</h2>
 <ul>
   <li>User can change loop rate of building and searching algorithms, affecting their speed</li>
