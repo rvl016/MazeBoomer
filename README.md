@@ -4,7 +4,7 @@
 
 <h2>What it is</h2>
 
-<p>This sort of game involves building a maze with a choosen algorithm and then solve a path between two choosen cells with a choosen algorithm. When solving a path, the user can place and remove barriers in unexplored areas of the maze, affecting the solver path.</p>
+<p>This sort of game involves building a maze with a chosen algorithm and then solve a path between two chosen cells with a chosen algorithm. When solving a path, the user can place and remove barriers in unexplored areas of the maze, affecting the solver path.</p>
 
 <h3>Note</h3>
 <p>This program is ready for placing as a component in an Angular frontend with <a href = "https://www.npmjs.com/package/pixi.js/v/5.0.0-rc">PIXI.js</a> ^5.2.1.</p>
